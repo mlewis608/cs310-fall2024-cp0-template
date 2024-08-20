@@ -1,12 +1,14 @@
 # cs310-Fall2024-cp0
 
 Full Name: 
+
 GitHub ID:
+
 Binghamton CS userid:
+
 Discord name:
 
 Please type or copy the CS 310 honesty statement here:
-
 
 
 With respect to the honesty statement, if you have any doubts whatsoever about
